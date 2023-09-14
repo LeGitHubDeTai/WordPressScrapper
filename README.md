@@ -11,7 +11,7 @@ Ce projet est un script Node.js qui récupère tous les articles, les pages et l
 1. Clonez ce dépôt sur votre machine :
 
 ```bash
-git clone https://github.com/votre-utilisateur/votre-projet.git
+git clone https://github.com/LeGitHubDeTai/WordPressScrapper.git
 ```
 
 2. Accédez au répertoire du projet :
