@@ -1,0 +1,27 @@
+{
+  "name": "wordpressscrapper",
+  "version": "1.0.0",
+  "description": "recupere les articles/pages/images de wordpress",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phoenix-Teams/WordPressScrapper.git"
+  },
+  "keywords": [
+    "scrapper",
+    "wordpress"
+  ],
+  "author": "Tai Tetsuyuki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Phoenix-Teams/WordPressScrapper/issues"
+  },
+  "homepage": "https://github.com/Phoenix-Teams/WordPressScrapper#readme",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "dotenv": "^16.3.1"
+  }
+}
